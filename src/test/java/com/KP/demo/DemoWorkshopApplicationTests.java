@@ -1,4 +1,4 @@
-package com.stalin.demo;
+package com.KP.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,7 +10,9 @@ class DemoWorkshopApplicationTests {
 
 	@Test
 	void contextLoads() {
-		List li = new ArrayList<String> ();
+		List<String> li = new ArrayList<>();
+		li.add("example");
+		System.out.println(li);
 	}
 
 }

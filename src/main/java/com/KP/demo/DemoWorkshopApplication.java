@@ -1,4 +1,4 @@
-package com.stalin.demo;
+package com.KP.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
